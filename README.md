@@ -5,7 +5,7 @@
 - 🔭 Working more on Powershell scripts.
 - 🌱 Growing to love and explore Python and Go.
 
-![tryhackme stats](https://raw.githubusercontent.com/Mirage007/Mirage007.png/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/Mirage007/Mirage007.png/master/assets/)
 
 
 
