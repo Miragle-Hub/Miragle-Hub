@@ -18,9 +18,8 @@
 
 
 
-
-
 ![views](https://camo.githubusercontent.com/78c429062674d25fa253897642dd51e571bf3385614937f60b00ed1394fa1c02/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f75722d6769746875622d64696c6a697468333639267374796c653d666c61742d73717561726526636f6c6f723d626c7565)
+
 
 
 
@@ -42,4 +41,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![gif-animated-color-bouncing-balls](https://github.com/Miragle-Hub/Miragle-Hub/assets/128744976/067b58e4-2639-4ed8-b10d-ad9f44c6ef72)
+<img src="https://github.com/Miragle-Hub/Miragle-Hub/assets/128744976/067b58e4-2639-4ed8-b10d-ad9f44c6ef72" width="2500" height="250"/>
 -->
