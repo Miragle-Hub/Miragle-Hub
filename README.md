@@ -9,6 +9,16 @@
 ---------------------------------------------------------
 
 ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Mirage007.png)
+
+
+
+
+
+
+
+
+
+
 ![tryhackme stats](https://camo.githubusercontent.com/78c429062674d25fa253897642dd51e571bf3385614937f60b00ed1394fa1c02/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f75722d6769746875622d64696c6a697468333639267374796c653d666c61742d73717561726526636f6c6f723d626c7565)
 
 
