@@ -1,12 +1,20 @@
 ### Hi there 👋
 
+🔎 Passionate Pentester | Continuous Learner in the World of Cybersecurity | Exploring the Art of Powershell Scripts 🌐
+
+- 🔭 Working more on Powershell scripts.
+- 🌱 Growing to love and explore Python and Go.
+
+
+
+
 <!--
 **Miragle-Hub/Miragle-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Working more on Powershell scripts.
+- 🌱 Growing to love and explore Python and Go.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
