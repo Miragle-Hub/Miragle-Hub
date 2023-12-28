@@ -12,6 +12,7 @@
 
 <img width="262" alt="2023-06-22 23_43_12-Hack The Box __ User Profile" src="https://github.com/Miragle-Hub/Miragle-Hub/assets/128744976/72b0f63c-f3e8-4604-8988-4b9137441535"> 
 
+<img width="262" alt="2023-06-22 23_43_12-tryhackme stats" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BXTV0YYJBY.png"> 
 
 
 
